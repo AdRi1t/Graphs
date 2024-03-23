@@ -23,17 +23,17 @@ This section contains images showing the results of the algorithms.
 
 ### Breadth First Search
 
-<img src="https://github.com/AdRi1t/Graphs/tree/main/git/BFS6.png" alt="BFS" width="400"/>
+<img src="https://github.com/AdRi1t/Graphs/blob/main/git/BFS6.png" alt="BFS" width="400"/>
 
 ### Cliques
 
-<img src="https://github.com/AdRi1t/Graphs/tree/main/git/Cliques.png" alt="Cliques" width="300"/>
+<img src="https://github.com/AdRi1t/Graphs/blob/main/git/Cliques.png" alt="Cliques" width="300"/>
 
 ### Bicliques
 
-<img src="https://github.com/AdRi1t/Graphs/tree/main/git/graphs_8.png" alt="Bicliques" width="300"/>
+<img src="https://github.com/AdRi1t/Graphs/blob/main/git/graphs_8.png" alt="Bicliques" width="300"/>
 
 
 ### Spanning tree
 
-<img src="https://github.com/AdRi1t/Graphs/tree/main/git/SpanningTree2.png" alt="SpanningTree" width="200"/>
+<img src="https://github.com/AdRi1t/Graphs/blob/main/git/SpanningTree2.png" alt="SpanningTree" width="200"/>
