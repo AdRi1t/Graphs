@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<graph-config>
+  <title>Random Geometric graph</title>
+
+  <out-dir>output</out-dir>
+  <draw-dir>draw</draw-dir>
+  <verbose-level>1</verbose-level>
+  
+  <graph-generator algo="RGG"> <!--"complete","random", "BA", "RGG"-->
+    <vertices>1000</vertices>
+    <!--edges>300</edges-->
+    <!--p-edge>0.3</p-edge-->
+    <distance-trheshold>0.05</distance-trheshold>
+    <!--m>6</m-->
+  </graph-generator>
+  
+  <benchmark>no</benchmark>
+  <measure-iter>10</measure-iter>
+
+</graph-config>
